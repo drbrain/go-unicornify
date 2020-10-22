@@ -1,7 +1,7 @@
 package unicornify
 
 import (
-	. "bitbucket.org/balpha/go-unicornify/unicornify/core"
+	. "github.com/drbrain/go-unicornify/unicornify/core"
 	"image"
 	"image/color"
 	"math"

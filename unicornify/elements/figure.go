@@ -1,8 +1,8 @@
 package elements
 
 import (
-	. "bitbucket.org/balpha/go-unicornify/unicornify/core"
-	. "bitbucket.org/balpha/go-unicornify/unicornify/rendering"
+	. "github.com/drbrain/go-unicornify/unicornify/core"
+	. "github.com/drbrain/go-unicornify/unicornify/rendering"
 )
 
 type Figure struct {

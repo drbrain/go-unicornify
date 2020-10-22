@@ -1,7 +1,7 @@
 package main
 
 import (
-	"bitbucket.org/balpha/go-unicornify/unicornify"
+	"github.com/drbrain/go-unicornify/unicornify"
 	"bufio"
 	"crypto/md5"
 	"encoding/hex"

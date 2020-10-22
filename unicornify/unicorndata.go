@@ -1,8 +1,8 @@
 package unicornify
 
 import (
-	. "bitbucket.org/balpha/go-unicornify/unicornify/core"
-	"bitbucket.org/balpha/gopyrand"
+	. "github.com/drbrain/go-unicornify/unicornify/core"
+	"github.com/drbrain/gopyrand"
 )
 
 type UnicornData struct {
